@@ -1,1 +1,12 @@
-<h1>Aqui é a home</h1>
+<hr>
+<form method="POST">
+    <input type="text" name="note">
+    <button>+ Nova Nota</button>
+</form>
+<hr>
+{{#each notes}}
+<div class="notes">
+    <h3>nota</h3>
+    <p class="description">{{title}}</p>
+</div>
+{{/each}}
