@@ -1,7 +1,8 @@
 <h1 align="center">notes_web</h1>
 <br>
+
 ## Instalação
-- run `npm install` to install all dependencies.
+- Execute `npm install` para instalar todas as dependências.
 
 ## Iniciando
 - `npm run dev` para iniciar
