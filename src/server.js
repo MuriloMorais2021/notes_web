@@ -21,4 +21,4 @@ app.use(express.urlencoded({extendend: true}));
 //usando as rotas
 app.use(routes);
 
-app.listen('8080', ()=>  console.log('Esta Rodando'));
+app.listen('3000', ()=>  console.log('Esta Rodando'));
